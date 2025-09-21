@@ -29,6 +29,6 @@ Schema\NBA SQL (ConstellationSchema).png
 # Created Dimension Tables
 
 Created all the dimension tables which I will be using for the creation of the fact table.
-- Queries\Dim_Player.SQL
-- Queries\
-- Queries\
+- Queries\Dim_Player.SQL **Dimension Table of Players**
+- Queries\Dim_Team.SQL **Dimension Table of NBA Teams**
+- Queries\Dim_Date.SQL **Dimension Table of Dates of Games**
